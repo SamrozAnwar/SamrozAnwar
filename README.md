@@ -15,7 +15,7 @@
 - 💼 Open to **freelance projects** and exciting collaborations
 - 📍 Based in **Pakistan**
 - 💬 Ask me about **WordPress, Laravel, PHP, HTML/CSS, JavaScript**
-- 📫 Reach me at: **[your-email@gmail.com]**
+- 📫 Reach me at: **msamrozanwar@gmail.com**
 
 ---
 
@@ -58,10 +58,10 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/msamrozanwar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:msamrozanwar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
