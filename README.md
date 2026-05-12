@@ -56,28 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamrozAnwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamrozAnwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamrozAnwar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamrozAnwar&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="Trophies" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -99,6 +77,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamrozAnwar&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<p align="center">⭐ <i>If you like my work, consider giving my repos a star!</i> ⭐</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%" />
